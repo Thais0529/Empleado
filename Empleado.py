@@ -20,4 +20,4 @@ class Empleado:
     @nombre.setter
     def nombre(self, nombre):
         self.nombre = nombre
-        
+        #falta crear otros atributos
